@@ -1,33 +1,33 @@
 # Single line comment
-propose1 = "I love you"
-propose2 = 'I love you'
+message1 = "I am here"
+message2 = 'I am here'
 
 """
  Multi  
  line 
  comment
 """
-propose3 = """
+message3 = """
         I 
-          Love 
-        You
+          am 
+        here
     """
-propose4 = '''
+message4 = '''
         I 
-          Love 
-        You
+          am 
+        here
     '''
-print(propose1)
-print(propose2)
+print(message1)
+print(message2)
 
-print(propose3)
-print(propose4)
+print(message3)
+print(message4)
 
 
 # Syntax- Indentation in Python
-message = 'love'
-if message == "love":
-  print("My love")
+message = 'world'
+if message == "world":
+  print("My world")
 
 
 # Variable in Python
